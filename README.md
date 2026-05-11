@@ -1,1 +1,12 @@
-# react-project-learning
+# Nazwa projektu
+
+## Opis
+Projekt stworzony w celu nauki React.
+
+## Funkcjonalności (do uzupełnienia)
+- ...
+- ...
+- ...
+
+## Instrukcja uruchomienia (do uzupełnienia)
+- ...
