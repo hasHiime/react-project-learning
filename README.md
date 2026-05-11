@@ -1,6 +1,7 @@
 # React learning
+:heart_eyes: :heart_eyes:
 
-## Opis
+## Description
 Project created to learn react with :crown: Mr. Jakub Piskorowski :crown:
 
 ## Functionality
