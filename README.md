@@ -1,12 +1,10 @@
-# Nazwa projektu
+# React learning
 
 ## Opis
-Projekt stworzony w celu nauki React.
+Project created to learn react with :crown: mr. Jakub Piskorowski :crown:
 
-## Funkcjonalności (do uzupełnienia)
-- ...
-- ...
-- ...
+## Functionality
+- No functionality for now
 
-## Instrukcja uruchomienia (do uzupełnienia)
-- ...
+## Launch instruction
+- No instruction for now
